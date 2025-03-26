@@ -10,7 +10,3 @@
 - 📫 How to reach me: **vrmasutkar@gmail.com**
 
 - 😂 Fun fact: **One time, I spent hours debugging my code, only to realize… I forgot to save the file before running it! Since then, Ctrl + S is my survival instinct! 💻⚡😆**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelforgex&show_icons=true&locale=en&layout=compact" alt="pixelforgex" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelforgex&show_icons=true&locale=en" alt="pixelforgex" /></p>
